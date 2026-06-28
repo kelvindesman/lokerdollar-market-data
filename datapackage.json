@@ -1,0 +1,110 @@
+{
+  "name": "lokerdollar-remote-job-market",
+  "title": "Loker Dollar — Remote Jobs Paying USD (weekly sample)",
+  "description": "Free weekly sample of active remote jobs paying in USD, AI-enriched with structured skills, salary, green/red flags, and Indonesia-fit signals. Full daily dataset: https://lokerdollar.com/en/data",
+  "homepage": "https://lokerdollar.com/en/data?utm_source=github_data_teaser&utm_medium=referral",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0"
+    }
+  ],
+  "resources": [
+    {
+      "name": "sample-remote-jobs",
+      "path": "data/sample-remote-jobs.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "string",
+            "description": "Internal job id"
+          },
+          {
+            "name": "title",
+            "type": "string",
+            "description": "Job title"
+          },
+          {
+            "name": "company",
+            "type": "string",
+            "description": "Hiring company"
+          },
+          {
+            "name": "location",
+            "type": "string",
+            "description": "Stated location"
+          },
+          {
+            "name": "remote_type",
+            "type": "string",
+            "description": "worldwide | regional | …"
+          },
+          {
+            "name": "job_type",
+            "type": "string",
+            "description": "full-time | contract | …"
+          },
+          {
+            "name": "pay_min",
+            "type": "integer",
+            "description": "Min pay"
+          },
+          {
+            "name": "pay_max",
+            "type": "integer",
+            "description": "Max pay"
+          },
+          {
+            "name": "pay_currency",
+            "type": "string",
+            "description": "ISO currency"
+          },
+          {
+            "name": "pay_period",
+            "type": "string",
+            "description": "yearly | monthly | …"
+          },
+          {
+            "name": "skills_required",
+            "type": "string",
+            "description": "JSON array of required skills"
+          },
+          {
+            "name": "skills_bonus",
+            "type": "string",
+            "description": "JSON array of bonus skills"
+          },
+          {
+            "name": "green_flags",
+            "type": "string",
+            "description": "JSON array of positive signals"
+          },
+          {
+            "name": "red_flags",
+            "type": "string",
+            "description": "JSON array of caution signals"
+          },
+          {
+            "name": "indonesian_context",
+            "type": "string",
+            "description": "Indonesia-fit notes (JSON)"
+          },
+          {
+            "name": "geo_fit",
+            "type": "string",
+            "description": "Geo-fit signal"
+          },
+          {
+            "name": "posted_at",
+            "type": "string",
+            "description": "ISO posted timestamp"
+          }
+        ]
+      }
+    }
+  ]
+}
