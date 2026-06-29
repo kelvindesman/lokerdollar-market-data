@@ -8,7 +8,8 @@
 		"phone": "",
 		"description": "Solo developer in Jakarta, Indonesia. Builder of Loker Dollar (lokerdollar.com) — a free AI job-search assistant for Indonesian and global talent, and the open remote-job market dataset published in this repository.",
 		"webpageUrl": {
-			"url": "https://lokerdollar.com/en"
+			"url": "https://lokerdollar.com/en",
+			"wellKnown": "https://lokerdollar.com/.well-known/funding-manifest-urls"
 		}
 	},
 	"projects": [
