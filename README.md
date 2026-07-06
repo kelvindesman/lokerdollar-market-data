@@ -1,7 +1,7 @@
 # Remote Job Market Data — USD Roles for Global & Indonesian Talent
 
-> Auto-generated weekly from the [Loker Dollar](https://lokerdollar.com/en?utm_source=github_data_teaser&utm_medium=referral&utm_campaign=market_data_2026_06) job corpus.
-> **Last updated: 2026-06-29.** Free sample below; the full enriched dataset is paid.
+> Auto-generated weekly from the [Loker Dollar](https://lokerdollar.com/en?utm_source=github_data_teaser&utm_medium=referral&utm_campaign=market_data_2026_07) job corpus.
+> **Last updated: 2026-07-06.** Free sample below; the full enriched dataset is paid.
 
 A continuously-updated dataset of **remote jobs paying in USD**, enriched with
 structured skills, salary, green/red flags, and Indonesia-fit signals — fields you
@@ -9,10 +9,10 @@ won't find in a raw job feed.
 
 ## Headline numbers
 
-- **4,585** active remote USD roles tracked right now
-- **974** (21%) disclose a salary range
-- **2,312** distinct hiring companies
-- **5.4%** of tracked Indonesian-market roles are tech roles (n=55,143)
+- **5,551** active remote USD roles tracked right now
+- **1,030** (19%) disclose a salary range
+- **2,541** distinct hiring companies
+- **5.4%** of tracked Indonesian-market roles are tech roles (n=56,487)
 
 ## What's in the free sample
 
@@ -27,21 +27,21 @@ The sample omits `source_url`; the paid tiers include the live apply link.
 The complete, daily-refreshed dataset — **every active role**, with the apply URL —
 is available here:
 
-**→ [Download the full dataset](https://lokerdollar.com/en/data?utm_source=github_data_teaser&utm_medium=referral&utm_campaign=market_data_2026_06)**
+**→ [Download the full dataset](https://lokerdollar.com/en/data?utm_source=github_data_teaser&utm_medium=referral&utm_campaign=market_data_2026_07)**
 
 - **Full CSV** — all active enriched roles.
 - **Commercial + redistribution license** — for resale/redistribution.
 
 ## Read the interactive reports
 
-- [Indonesia salary benchmark by role & seniority](https://lokerdollar.com/en/reports/indonesia-salary-benchmark?utm_source=github_data_teaser&utm_medium=referral&utm_campaign=market_data_2026_06)
-- [Indonesia tech-hiring report](https://lokerdollar.com/en/reports/indonesia-tech-hiring?utm_source=github_data_teaser&utm_medium=referral&utm_campaign=market_data_2026_06)
-- [Indonesia IT jobs vs global remote (2026 research)](https://lokerdollar.com/en/research/indonesia-it-jobs-vs-global-remote-2026?utm_source=github_data_teaser&utm_medium=referral&utm_campaign=market_data_2026_06)
+- [Indonesia salary benchmark by role & seniority](https://lokerdollar.com/en/reports/indonesia-salary-benchmark?utm_source=github_data_teaser&utm_medium=referral&utm_campaign=market_data_2026_07)
+- [Indonesia tech-hiring report](https://lokerdollar.com/en/reports/indonesia-tech-hiring?utm_source=github_data_teaser&utm_medium=referral&utm_campaign=market_data_2026_07)
+- [Indonesia IT jobs vs global remote (2026 research)](https://lokerdollar.com/en/research/indonesia-it-jobs-vs-global-remote-2026?utm_source=github_data_teaser&utm_medium=referral&utm_campaign=market_data_2026_07)
 
 ## License
 
 This sample is released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
-Reuse freely **with attribution** to [lokerdollar.com](https://lokerdollar.com/en?utm_source=github_data_teaser&utm_medium=referral&utm_campaign=market_data_2026_06).
+Reuse freely **with attribution** to [lokerdollar.com](https://lokerdollar.com/en?utm_source=github_data_teaser&utm_medium=referral&utm_campaign=market_data_2026_07).
 
 ---
 
