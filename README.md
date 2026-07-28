@@ -10,7 +10,7 @@ won't find in a raw job feed.
 ## Headline numbers
 
 - **5,894** active remote USD roles tracked right now
-- **1,476** (25%) disclose a salary range
+- **1,477** (25%) disclose a salary range
 - **2,418** distinct hiring companies
 
 ## What's in the free sample
