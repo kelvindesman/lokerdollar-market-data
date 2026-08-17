@@ -1,7 +1,7 @@
 # Remote Job Market Data — USD Roles for Global & Indonesian Talent
 
 > Auto-generated weekly from the [Loker Dollar](https://lokerdollar.com/en?utm_source=github_data_teaser&utm_medium=referral&utm_campaign=market_data_2026_08) job corpus.
-> **Last updated: 2026-08-10.** Free sample below; the full enriched dataset is paid.
+> **Last updated: 2026-08-17.** Free sample below; the full enriched dataset is paid.
 
 A continuously-updated dataset of **remote jobs paying in USD**, enriched with
 structured skills, salary, green/red flags, and Indonesia-fit signals — fields you
@@ -9,9 +9,10 @@ won't find in a raw job feed.
 
 ## Headline numbers
 
-- **6,468** active remote USD roles tracked right now
-- **824** (13%) disclose a salary range
-- **2,268** distinct hiring companies
+- **6,458** active remote USD roles tracked right now
+- **739** (11%) disclose a salary range
+- **2,200** distinct hiring companies
+- **5%** of tracked Indonesian-market roles are tech roles (n=58,972)
 
 ## What's in the free sample
 
