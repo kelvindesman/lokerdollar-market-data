@@ -1,7 +1,7 @@
 # Remote Job Market Data — USD Roles for Global & Indonesian Talent
 
 > Auto-generated weekly from the [Loker Dollar](https://lokerdollar.com/en?utm_source=github_data_teaser&utm_medium=referral&utm_campaign=market_data_2026_08) job corpus.
-> **Last updated: 2026-08-17.** Free sample below; the full enriched dataset is paid.
+> **Last updated: 2026-08-24.** Free sample below; the full enriched dataset is paid.
 
 A continuously-updated dataset of **remote jobs paying in USD**, enriched with
 structured skills, salary, green/red flags, and Indonesia-fit signals — fields you
@@ -9,10 +9,10 @@ won't find in a raw job feed.
 
 ## Headline numbers
 
-- **6,458** active remote USD roles tracked right now
-- **739** (11%) disclose a salary range
-- **2,200** distinct hiring companies
-- **5%** of tracked Indonesian-market roles are tech roles (n=58,972)
+- **6,868** active remote USD roles tracked right now
+- **906** (13%) disclose a salary range
+- **2,125** distinct hiring companies
+- **5.3%** of tracked Indonesian-market roles are tech roles (n=56,734)
 
 ## What's in the free sample
 
@@ -40,9 +40,11 @@ is available here:
 - [Indonesian Remote Work Salary & Demand Index](https://lokerdollar.com/en/reports/indonesia-remote-salary-demand-index?utm_source=github_data_teaser&utm_medium=referral&utm_campaign=market_data_2026_08)
 - [Indonesia salary benchmark](https://lokerdollar.com/en/reports/indonesia-salary-benchmark?utm_source=github_data_teaser&utm_medium=referral&utm_campaign=market_data_2026_08)
 - [Indonesia hiring report: tech vs non-tech](https://lokerdollar.com/en/reports/indonesia-tech-hiring?utm_source=github_data_teaser&utm_medium=referral&utm_campaign=market_data_2026_08)
+- [Remote hiring data](https://lokerdollar.com/en/remote-hiring-data?utm_source=github_data_teaser&utm_medium=referral&utm_campaign=market_data_2026_08)
 - [Indonesia IT Jobs vs Global Remote (2026)](https://lokerdollar.com/en/research/indonesia-it-jobs-vs-global-remote-2026?utm_source=github_data_teaser&utm_medium=referral&utm_campaign=market_data_2026_08)
 - [AI-Skill Demand: Indonesia vs Global Remote (2026)](https://lokerdollar.com/en/research/ai-skill-demand-indonesia-vs-global-2026?utm_source=github_data_teaser&utm_medium=referral&utm_campaign=market_data_2026_08)
 - [Remote ≠ Remote: The Skills That Open Global Work to Indonesians (2026)](https://lokerdollar.com/en/research/remote-geo-gap-indonesia-2026?utm_source=github_data_teaser&utm_medium=referral&utm_campaign=market_data_2026_08)
+- [The Compliance Layer of the AI Hiring Stack (2026)](https://lokerdollar.com/en/research/ai-hiring-stack-2026?utm_source=github_data_teaser&utm_medium=referral&utm_campaign=market_data_2026_08)
 
 ## License
 
