@@ -6,7 +6,7 @@
 		"name": "Kelvin",
 		"email": "kelvindsmn@gmail.com",
 		"phone": "",
-		"description": "Solo developer in Jakarta, Indonesia. Builder of Loker Dollar (lokerdollar.com) — a free AI job-search assistant for Indonesian and global talent, and the open remote-job market dataset published in this repository.",
+		"description": "Solo developer in Jakarta, Indonesia. Builder of Loker Dollar (lokerdollar.com) \u2014 a free AI job-search assistant for Indonesian and global talent, and the open remote-job market dataset published in this repository.",
 		"webpageUrl": {
 			"url": "https://lokerdollar.com/en",
 			"wellKnown": "https://lokerdollar.com/.well-known/funding-manifest-urls"
@@ -15,15 +15,17 @@
 	"projects": [
 		{
 			"guid": "lokerdollar-market-data",
-			"name": "Loker Dollar — Open Remote Job Market Data",
-			"description": "A continuously-updated, openly-licensed (CC BY 4.0) dataset of remote jobs paying in USD, AI-enriched with structured skills, salary ranges, green/red flags, and Indonesia-fit signals. Published as a Frictionless Data package and refreshed weekly. Powers free public labor-market transparency for job seekers in emerging markets who are otherwise priced out of paid market-data products.",
+			"name": "Loker Dollar \u2014 Open Remote Job Market Data",
+			"description": "A continuously-updated, openly-licensed (CC BY 4.0) dataset of remote jobs paying in USD, parsed into structured columns: required skills, normalised salary ranges, remote type, and geo-fit / Indonesia-fit signals. Published as a Frictionless Data package with per-column fill rates, refreshed weekly. Powers free public labor-market transparency for job seekers in emerging markets who are otherwise priced out of paid market-data products.",
 			"webpageUrl": {
 				"url": "https://lokerdollar.com/en/data"
 			},
 			"repositoryUrl": {
 				"url": "https://github.com/kelvindesman/lokerdollar-market-data"
 			},
-			"licenses": ["spdx:CC-BY-4.0"],
+			"licenses": [
+				"spdx:CC-BY-4.0"
+			],
 			"tags": [
 				"open-data",
 				"labor-market",
@@ -53,7 +55,9 @@
 				"amount": 10000,
 				"currency": "USD",
 				"frequency": "yearly",
-				"channels": ["email-contact"]
+				"channels": [
+					"email-contact"
+				]
 			}
 		],
 		"history": []
