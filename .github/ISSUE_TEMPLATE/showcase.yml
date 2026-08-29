@@ -1,0 +1,44 @@
+name: Showcase — something you built with this data
+description: Share an analysis, chart, tool or article built on the dataset.
+title: "[Showcase] "
+labels: ["showcase"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Built something with this dataset? Post it here. Good analyses get linked
+        from the market reports on lokerdollar.com, which is a real inbound link
+        back to your work.
+
+        The only ask is the licence condition: attribute
+        [lokerdollar.com](https://lokerdollar.com/en/data) (CC BY 4.0) wherever
+        the numbers appear.
+  - type: input
+    id: link
+    attributes:
+      label: Link
+      description: Notebook, post, thread, dashboard, repo — wherever it lives.
+      placeholder: https://
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What did you find?
+      description: One or two sentences. A surprising number is enough.
+    validations:
+      required: true
+  - type: input
+    id: columns
+    attributes:
+      label: Which columns did you use?
+      placeholder: pay_min, pay_max, skills_required
+    validations:
+      required: false
+  - type: textarea
+    id: missing
+    attributes:
+      label: Anything missing from the data?
+      description: Fields you wanted and could not find. This is how the schema grows.
+    validations:
+      required: false
