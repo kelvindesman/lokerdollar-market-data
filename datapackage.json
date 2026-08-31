@@ -1,13 +1,31 @@
 {
   "name": "lokerdollar-remote-job-market",
   "title": "Loker Dollar — Remote Jobs Paying USD (weekly sample)",
-  "description": "Free weekly sample of active remote jobs paying in USD, AI-enriched with structured skills, salary, green/red flags, and Indonesia-fit signals. Full daily dataset: https://lokerdollar.com/en/data",
-  "homepage": "https://lokerdollar.com/en/data?utm_source=github_data_teaser&utm_medium=referral",
+  "description": "Free weekly sample of active remote jobs paying in USD, parsed into structured columns: required skills, normalised salary, remote type, and geo-fit / Indonesia-fit signals. Per-column fill rates are published in the README. Full daily dataset: https://lokerdollar.com/en/data",
+  "homepage": "https://lokerdollar.com/en/data?utm_source=github_data_teaser&utm_medium=referral&utm_campaign=market_data_2026_08",
+  "version": "2026.08.31",
+  "created": "2026-08-31T00:00:00Z",
+  "keywords": [
+    "jobs",
+    "remote-work",
+    "salary-data",
+    "labor-market",
+    "open-data",
+    "indonesia",
+    "hiring"
+  ],
   "licenses": [
     {
       "name": "CC-BY-4.0",
       "path": "https://creativecommons.org/licenses/by/4.0/",
       "title": "Creative Commons Attribution 4.0"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "Loker Dollar",
+      "path": "https://lokerdollar.com/en",
+      "role": "publisher"
     }
   ],
   "resources": [
@@ -16,17 +34,19 @@
       "path": "data/sample-remote-jobs.csv",
       "format": "csv",
       "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "50 active, salary-disclosing remote roles, refreshed weekly. Drawn from a live corpus of 5,099 active roles.",
       "schema": {
         "fields": [
           {
             "name": "id",
             "type": "string",
-            "description": "Internal job id"
+            "description": "Stable internal job id"
           },
           {
             "name": "title",
             "type": "string",
-            "description": "Job title"
+            "description": "Job title as posted"
           },
           {
             "name": "company",
@@ -36,72 +56,67 @@
           {
             "name": "location",
             "type": "string",
-            "description": "Stated location"
+            "description": "Stated location text"
           },
           {
             "name": "remote_type",
             "type": "string",
-            "description": "worldwide | regional | …"
+            "description": "worldwide | regional | country-restricted | hybrid"
           },
           {
             "name": "job_type",
             "type": "string",
-            "description": "full-time | contract | …"
+            "description": "full-time | part-time | contract | internship"
           },
           {
             "name": "pay_min",
             "type": "integer",
-            "description": "Min pay"
+            "description": "Lower bound of the stated range"
           },
           {
             "name": "pay_max",
             "type": "integer",
-            "description": "Max pay"
+            "description": "Upper bound of the stated range"
           },
           {
             "name": "pay_currency",
             "type": "string",
-            "description": "ISO currency"
+            "description": "ISO 4217 currency code"
           },
           {
             "name": "pay_period",
             "type": "string",
-            "description": "yearly | monthly | …"
+            "description": "yearly | monthly | hourly"
           },
           {
             "name": "skills_required",
             "type": "string",
-            "description": "JSON array of required skills"
+            "description": "JSON array — must-have skills, extracted from the posting"
           },
           {
             "name": "skills_bonus",
             "type": "string",
-            "description": "JSON array of bonus skills"
+            "description": "JSON array — nice-to-have skills. Not yet populated; see the Filled column."
           },
           {
             "name": "green_flags",
             "type": "string",
-            "description": "JSON array of positive signals"
+            "description": "JSON array — positive signals (async, equity, visa support). Not yet populated; see the Filled column."
           },
           {
             "name": "red_flags",
             "type": "string",
-            "description": "JSON array of caution signals"
+            "description": "JSON array — caution signals (unpaid trial, vague scope). Sparse; see the Filled column."
           },
           {
             "name": "indonesian_context",
             "type": "string",
-            "description": "Indonesia-fit notes (JSON)"
-          },
-          {
-            "name": "geo_fit",
-            "type": "string",
-            "description": "Geo-fit signal"
+            "description": "JSON — Indonesia-fit notes (timezone overlap, hiring posture)"
           },
           {
             "name": "posted_at",
             "type": "string",
-            "description": "ISO posted timestamp"
+            "description": "ISO 8601 posting timestamp"
           }
         ]
       }
