@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Loker Dollar Remote Job Market Data — USD roles, weekly sample"
+abstract: "A continuously-updated, CC BY 4.0 dataset of remote jobs paying in USD, parsed into structured columns: required skills, normalised salary ranges, remote type, and geo-fit / Indonesia-fit signals."
+type: dataset
+authors:
+  - name: "Loker Dollar"
+    website: "https://lokerdollar.com/en"
+doi: "10.5281/zenodo.22168464"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.22168464"
+    description: "Concept DOI — always resolves to the latest archived version."
+url: "https://lokerdollar.com/en/data"
+repository-code: "https://github.com/kelvindesman/lokerdollar-market-data"
+license: CC-BY-4.0
+version: "2026-08-31"
+date-released: "2026-08-31"
+keywords:
+  - jobs
+  - remote work
+  - salary data
+  - labor market
+  - open data
+  - Indonesia
