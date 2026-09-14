@@ -3,8 +3,8 @@
   "title": "Loker Dollar — Remote Jobs Paying USD (weekly sample)",
   "description": "Free weekly sample of active remote jobs paying in USD, parsed into structured columns: required skills, normalised salary, remote type, and geo-fit / Indonesia-fit signals. Per-column fill rates are published in the README. Full daily dataset: https://lokerdollar.com/en/data",
   "homepage": "https://lokerdollar.com/en/data?utm_source=github_data_teaser&utm_medium=referral&utm_campaign=market_data_2026_09",
-  "version": "2026.09.07",
-  "created": "2026-09-07T00:00:00Z",
+  "version": "2026.09.14",
+  "created": "2026-09-14T00:00:00Z",
   "keywords": [
     "jobs",
     "remote-work",
@@ -35,7 +35,7 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "description": "50 active, salary-disclosing remote roles, refreshed weekly. Drawn from a live corpus of 5,600 active roles.",
+      "description": "50 active, salary-disclosing remote roles, refreshed weekly. Drawn from a live corpus of 5,398 active roles.",
       "schema": {
         "fields": [
           {
