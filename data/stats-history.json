@@ -12,5 +12,12 @@
     "with_salary": 942,
     "salary_pct": 16.8,
     "companies": 1410
+  },
+  {
+    "date": "2026-09-14",
+    "total": 5398,
+    "with_salary": 945,
+    "salary_pct": 17.5,
+    "companies": 1402
   }
 ]
