@@ -1,7 +1,7 @@
 # Verified Remote USD Jobs — Indonesia
 
 > Auto-generated daily from the [Loker Dollar](https://lokerdollar.com/en?utm_source=github&utm_medium=referral&utm_campaign=curated_list) job corpus.
-> **Last updated: 2026-09-14.** 50 verified listings posted in the last 7 days.
+> **Last updated: 2026-09-15.** 50 verified listings posted in the last 7 days.
 
 ## What "verified" means
 
@@ -26,6 +26,16 @@ or gets filled simply drops off the next run.
 
 | Job | Company | Remote | Pay | Posted |
 |---|---|---|---|---|
+| [ENTRY SALES TO MANAGEMENT (REMOTE)](https://lokerdollar.com/en/jobs/entry-sales-to-management-remote-global-elite--job_jobg8_us_3173528317?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Global Elite | regional | Not disclosed | 2026-09-15 |
+| [Remote Manager in Training- CS/Sales](https://lokerdollar.com/en/jobs/remote-manager-in-training-cssales-global-elite--job_jobg8_us_3173523168?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Global Elite | regional | Not disclosed | 2026-09-15 |
+| [Inside Sales (100% Remote)](https://lokerdollar.com/en/jobs/inside-sales-100-remote-global-elite--job_jobg8_us_3173516692?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Global Elite | regional | Not disclosed | 2026-09-15 |
+| [Animation Technical Artist - Rigging & Pipelines (Remote)](https://lokerdollar.com/en/jobs/animation-technical-artist-rigging-pipelines-remote-keywords-studios--job_jooble_-8747365693848765000?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Keywords Studios | worldwide | Not disclosed | 2026-09-14 |
+| [Remote Cybersecurity Consultant: Maturity & Risk](https://lokerdollar.com/en/jobs/remote-cybersecurity-consultant-maturity-risk-palladium--job_jooble_-197599434427383330?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Palladium | worldwide | Not disclosed | 2026-09-14 |
+| [Senior Risk Associate](https://lokerdollar.com/en/jobs/senior-risk-associate-lithic--job_greenhouse_lithic_6191874004?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Lithic | worldwide | USD 86,000–144,000/yearly | 2026-09-14 |
+| [Accounting and Finance Expert (Southeast Asia, $20 - $40)](https://lokerdollar.com/en/jobs/accounting-and-finance-expert-southeast-asia-20-40-wizwiz-ai--job_jooble_6678025075184295000?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Wizwiz AI | worldwide | Not disclosed | 2026-09-14 |
+| [Physician and Medical Expert (Southeast Asia, $40 - $80)](https://lokerdollar.com/en/jobs/physician-and-medical-expert-southeast-asia-40-80-wizwiz-ai--job_jooble_1096358897984018400?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Wizwiz AI | worldwide | Not disclosed | 2026-09-14 |
+| [Director of Enterprise Technology](https://lokerdollar.com/en/jobs/director-of-enterprise-technology-multiverse--job_ashby_Multiverse_ef60dd9c-0023-43e2-bf0a-e025c9939f58?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Multiverse | remote-region | Not disclosed | 2026-09-14 |
+| [Senior Financial Accountant](https://lokerdollar.com/en/jobs/senior-financial-accountant-multiverse--job_ashby_Multiverse_678aeabd-b4a6-4232-b146-99edf97cdf5a?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Multiverse | remote-region | Not disclosed | 2026-09-14 |
 | [Enterprise Account Manager (Government) (Remote)](https://lokerdollar.com/en/jobs/enterprise-account-manager-government-remote-hire-feed--job_jooble_-3451207744903723000?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Hire Feed | worldwide | Not disclosed | 2026-09-13 |
 | [Economics Researcher (Remote)](https://lokerdollar.com/en/jobs/economics-researcher-remote-hire-feed--job_jooble_-7499107153220428000?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Hire Feed | worldwide | Not disclosed | 2026-09-13 |
 | [Human Data Specialist (Remote)](https://lokerdollar.com/en/jobs/human-data-specialist-remote-hire-feed--job_jooble_2078904785128200400?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Hire Feed | worldwide | Not disclosed | 2026-09-13 |
@@ -66,16 +76,6 @@ or gets filled simply drops off the next run.
 | [Senior Go Backend Engineer — Remote, Scalable Systems](https://lokerdollar.com/en/jobs/senior-go-backend-engineer-remote-scalable-systems-white-glove-hiring--job_jooble_6719385927478413000?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | White Glove Hiring | worldwide | Not disclosed | 2026-09-10 |
 | [L2 Technical Support Engineer - Remote & Global Team](https://lokerdollar.com/en/jobs/l2-technical-support-engineer-remote-global-team-influx-inc--job_jooble_5002540750230433000?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Influx Inc | worldwide | Not disclosed | 2026-09-10 |
 | [Remote Japanese Interpreter - Flexible Freelance Work](https://lokerdollar.com/en/jobs/remote-japanese-interpreter-flexible-freelance-work-tonguepoint--job_jooble_-3218228088710932500?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Tonguepoint | worldwide | Not disclosed | 2026-09-09 |
-| [Project Manager](https://lokerdollar.com/en/jobs/project-manager-uttr--job_wwr_uttr-project-manager?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | UTTR | worldwide | Not disclosed | 2026-09-09 |
-| [Senior Performance Marketing Manager (Part-Time)](https://lokerdollar.com/en/jobs/senior-performance-marketing-manager-part-time-uttr--job_wwr_uttr-senior-performance-marketing-manager-part-time?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | UTTR | worldwide | Not disclosed | 2026-09-09 |
-| [Senior Software Engineer, Core Experiences - Surabaya, Indonesia](https://lokerdollar.com/en/jobs/senior-software-engineer-core-experiences-surabaya-indonesia-speechify--job_jooble_-5874242311285899000?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Speechify | worldwide | Not disclosed | 2026-09-09 |
-| [Senior IT Security Officer - A26334](https://lokerdollar.com/en/jobs/senior-it-security-officer-a26334-activate-interactive-pte-ltd--job_adzuna_5876580254?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | ACTIVATE INTERACTIVE PTE LTD | worldwide | Not disclosed | 2026-09-09 |
-| [Senior AI Engineer - APAC  Africa](https://lokerdollar.com/en/jobs/senior-ai-engineer-apac-africa-chaingpt--job_adzuna_5876571342?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | ChainGPT | worldwide | SGD 154,999–193,749/yearly | 2026-09-09 |
-| [HR Specialist, Contracts Management - APAC](https://lokerdollar.com/en/jobs/hr-specialist-contracts-management-apac-remote--job_jobicy_152876?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Remote | worldwide | Not disclosed | 2026-09-09 |
-| [Solutions Architecture Regional Leader - APAC](https://lokerdollar.com/en/jobs/solutions-architecture-regional-leader-apac-bright-data--job_adzuna_5875764293?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Bright Data | worldwide | Not disclosed | 2026-09-09 |
-| [Frontend Developer](https://lokerdollar.com/en/jobs/frontend-developer-holafly--job_jooble_4864373848593106000?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Holafly | worldwide | Not disclosed | 2026-09-09 |
-| [Influencer Marketing Manager](https://lokerdollar.com/en/jobs/influencer-marketing-manager-greedygame--job_jooble_1499495788718891000?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | GreedyGame | worldwide | Not disclosed | 2026-09-09 |
-| [Store Sales Assistant (Home & Living)](https://lokerdollar.com/en/jobs/store-sales-assistant-home-living-pt-oslo-design-indonesia--job_careerjet_v2_UumwWRKguDH27nqZjUz6WCSty83OQXdYTzAr-ES_7tvhuYYZfRONr7pPw3oMj?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | PT. Oslo Design Indonesia | worldwide | Not disclosed | 2026-09-08 |
 
 ## Submit a listing
 
