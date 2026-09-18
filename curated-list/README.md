@@ -1,7 +1,7 @@
 # Verified Remote USD Jobs — Indonesia
 
 > Auto-generated daily from the [Loker Dollar](https://lokerdollar.com/en?utm_source=github&utm_medium=referral&utm_campaign=curated_list) job corpus.
-> **Last updated: 2026-09-17.** 50 verified listings posted in the last 7 days.
+> **Last updated: 2026-09-18.** 50 verified listings posted in the last 7 days.
 
 ## What "verified" means
 
@@ -26,6 +26,8 @@ or gets filled simply drops off the next run.
 
 | Job | Company | Remote | Pay | Posted |
 |---|---|---|---|---|
+| [Physician / Telemedicine / Remote Radiology-Private Group](https://lokerdollar.com/en/jobs/physician-telemedicine-remote-radiology-private-group-amn-healthcare-inc--job_jobg8_us_3178743934?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | AMN Healthcare, Inc. | regional | USD 450,000–750,000/yearly | 2026-09-17 |
+| [FinOps Engineer](https://lokerdollar.com/en/jobs/finops-engineer-supabase--job_ashby_Supabase_fab1525f-3d89-4d1c-9094-84d21647415e?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Supabase | worldwide | Not disclosed | 2026-09-16 |
 | [Administrative Manager (Remote)](https://lokerdollar.com/en/jobs/administrative-manager-remote-quik-hire-staffing--job_jooble_-2019402718725009400?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Quik Hire Staffing | worldwide | Not disclosed | 2026-09-16 |
 | [Motion Graphics Designer (Remote)](https://lokerdollar.com/en/jobs/motion-graphics-designer-remote-quik-hire-staffing--job_jooble_7062822247614713000?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Quik Hire Staffing | worldwide | Not disclosed | 2026-09-16 |
 | [Site Reliability Engineer - LInE (Remote)](https://lokerdollar.com/en/jobs/site-reliability-engineer-line-remote-quik-hire-staffing--job_jooble_-6948775908844430000?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Quik Hire Staffing | worldwide | Not disclosed | 2026-09-16 |
@@ -36,12 +38,13 @@ or gets filled simply drops off the next run.
 | [Support Engineer (Remote)](https://lokerdollar.com/en/jobs/support-engineer-remote-quik-hire-staffing--job_jooble_-1768909597741964300?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Quik Hire Staffing | worldwide | Not disclosed | 2026-09-16 |
 | [Partnerships Manager (Remote)](https://lokerdollar.com/en/jobs/partnerships-manager-remote-quik-hire-staffing--job_jooble_1705918992021516800?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Quik Hire Staffing | worldwide | Not disclosed | 2026-09-16 |
 | [Data Analyst - Finance (Remote)](https://lokerdollar.com/en/jobs/data-analyst-finance-remote-quik-hire-staffing--job_jooble_-7382182882447681000?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Quik Hire Staffing | worldwide | Not disclosed | 2026-09-16 |
+| [Senior Manager, Coach & Instructor Enablement](https://lokerdollar.com/en/jobs/senior-manager-coach-instructor-enablement-multiverse--job_ashby_Multiverse_68edc249-736c-4c91-84c9-a01cff5b14f7?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Multiverse | remote-region | Not disclosed | 2026-09-16 |
 | [Analyst, Data Operations & Analytics (all genders)](https://lokerdollar.com/en/jobs/analyst-data-operations-analytics-all-genders-lightspeed-commerce--job_ashby_lightspeedhq_bed6cac3-805a-4383-be0b-7352ad1a1798?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Lightspeed Commerce | remote-region | Not disclosed | 2026-09-16 |
 | [Analyst, Data Operations & Analytics](https://lokerdollar.com/en/jobs/analyst-data-operations-analytics-lightspeed-commerce--job_ashby_lightspeedhq_558abf5c-de6a-4db8-8106-cce6ad90819c?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Lightspeed Commerce | remote-region | Not disclosed | 2026-09-16 |
+| [Product Operations Executive (ID)](https://lokerdollar.com/en/jobs/product-operations-executive-id-hello-travel-pte-ltd--job_jooble_4190998317513821700?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Hello Travel Pte Ltd | worldwide | Not disclosed | 2026-09-16 |
 | [CONTENT CONSULTANT — FULL REMOTE / WFH](https://lokerdollar.com/en/jobs/content-consultant-full-remote-wfh-vidici-indonesia--job_jooble_4875027489853257000?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Vidici Indonesia | worldwide | Not disclosed | 2026-09-16 |
 | [Duty Manager](https://lokerdollar.com/en/jobs/duty-manager-swissotel--job_jooble_-7876480707575500000?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | SWISSOTEL | worldwide | Not disclosed | 2026-09-15 |
 | [Software Engineer](https://lokerdollar.com/en/jobs/software-engineer-tether--job_hn_49713455?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Tether | worldwide | Not disclosed | 2026-09-15 |
-| [Telehealth PA or NP - Supporting Military Readiness - 7am - 5pm Friday - Monday Schedule - Remote](https://lokerdollar.com/en/jobs/telehealth-pa-or-np-supporting-military-readiness-7am-5pm-friday-monday-schedule-remote-unitedhealth-group--job_jobg8_us_3176556539?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | UnitedHealth Group | regional | Not disclosed | 2026-09-15 |
 | [Customer Support Representative](https://lokerdollar.com/en/jobs/customer-support-representative-swappedcom--job_cryptojobs_swapped-com-customer-support-rep?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Swapped.com | worldwide | Not disclosed | 2026-09-15 |
 | [Senior UX Researcher (100% Remote Worldwide)](https://lokerdollar.com/en/jobs/senior-ux-researcher-100-remote-worldwide-tether-operations-limited--job_arbeitnow_senior-ux-researcher-100-remote-?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Tether Operations Limited | worldwide | Not disclosed | 2026-09-15 |
 | [Freelance Scrum Master - APAC](https://lokerdollar.com/en/jobs/freelance-scrum-master-apac-human-made-makers-of-altis-dxp--job_adzuna_5883802405?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Human Made, makers of Altis DXP | worldwide | Not disclosed | 2026-09-15 |
@@ -71,11 +74,8 @@ or gets filled simply drops off the next run.
 | [Project Manager - Growth (Remote)](https://lokerdollar.com/en/jobs/project-manager-growth-remote-hire-feed--job_jooble_-1659048461496219600?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Hire Feed | worldwide | Not disclosed | 2026-09-13 |
 | [Design Engineer (Remote)](https://lokerdollar.com/en/jobs/design-engineer-remote-quik-hire-staffing--job_jooble_-221168352390221660?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Quik Hire Staffing | worldwide | Not disclosed | 2026-09-13 |
 | [Data Specialist (Remote)](https://lokerdollar.com/en/jobs/data-specialist-remote-quik-hire-staffing--job_jooble_-2078318565125339100?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Quik Hire Staffing | worldwide | Not disclosed | 2026-09-13 |
+| [HR Operations Generalist (Remote)](https://lokerdollar.com/en/jobs/hr-operations-generalist-remote-hired--job_jooble_-7872955903957650000?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Hired | worldwide | Not disclosed | 2026-09-13 |
 | [Data Scientist - Python (Remote)](https://lokerdollar.com/en/jobs/data-scientist-python-remote-hire-feed--job_jooble_6932731158884496000?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Hire Feed | worldwide | Not disclosed | 2026-09-13 |
-| [Data Partnerships Manager (Remote)](https://lokerdollar.com/en/jobs/data-partnerships-manager-remote-quik-hire-staffing--job_jooble_6489519274666443000?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Quik Hire Staffing | worldwide | Not disclosed | 2026-09-13 |
-| [Financial Accountant (Remote)](https://lokerdollar.com/en/jobs/financial-accountant-remote-hire-feed--job_jooble_-3350875798504758300?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Hire Feed | worldwide | Not disclosed | 2026-09-13 |
-| [Growth Manager (APAC)](https://lokerdollar.com/en/jobs/growth-manager-apac-starknet-foundation--job_adzuna_5881188638?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Starknet Foundation | worldwide | Not disclosed | 2026-09-13 |
-| [Manager, Employee Relations (APAC)](https://lokerdollar.com/en/jobs/manager-employee-relations-apac-expedia--job_adzuna_5881180214?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Expedia | worldwide | Not disclosed | 2026-09-13 |
 
 ## Submit a listing
 
