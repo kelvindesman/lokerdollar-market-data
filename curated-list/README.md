@@ -1,7 +1,7 @@
 # Verified Remote USD Jobs — Indonesia
 
 > Auto-generated daily from the [Loker Dollar](https://lokerdollar.com/en?utm_source=github&utm_medium=referral&utm_campaign=curated_list) job corpus.
-> **Last updated: 2026-09-18.** 50 verified listings posted in the last 7 days.
+> **Last updated: 2026-09-19.** 50 verified listings posted in the last 7 days.
 
 ## What "verified" means
 
@@ -26,7 +26,14 @@ or gets filled simply drops off the next run.
 
 | Job | Company | Remote | Pay | Posted |
 |---|---|---|---|---|
-| [Physician / Telemedicine / Remote Radiology-Private Group](https://lokerdollar.com/en/jobs/physician-telemedicine-remote-radiology-private-group-amn-healthcare-inc--job_jobg8_us_3178743934?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | AMN Healthcare, Inc. | regional | USD 450,000–750,000/yearly | 2026-09-17 |
+| [Talent Acquisition Associate](https://lokerdollar.com/en/jobs/talent-acquisition-associate-avomind--job_jooble_3596387785809132000?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Avomind | worldwide | Not disclosed | 2026-09-18 |
+| [Customer Engineer, APAC](https://lokerdollar.com/en/jobs/customer-engineer-apac-cresta--job_jobicy_150935?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Cresta | worldwide | Not disclosed | 2026-09-18 |
+| [Customer relations manager- Media and entertainment](https://lokerdollar.com/en/jobs/customer-relations-manager-media-and-entertainment-anuvu--job_adzuna_5888034298?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Anuvu | worldwide | Not disclosed | 2026-09-18 |
+| [Remote APAC BD Lead – AI Compute Solutions](https://lokerdollar.com/en/jobs/remote-apac-bd-lead-ai-compute-solutions-tenstorrent--job_adzuna_5887450027?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Tenstorrent | worldwide | Not disclosed | 2026-09-17 |
+| [Remote APAC Solutions Architect (Telecom/MVNO)](https://lokerdollar.com/en/jobs/remote-apac-solutions-architect-telecommvno-airalo--job_adzuna_5887447976?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Airalo | worldwide | Not disclosed | 2026-09-17 |
+| [Junior IT Engineer](https://lokerdollar.com/en/jobs/junior-it-engineer-funding-societies-modalku-group--job_adzuna_5887358556?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Funding Societies \| Modalku Group | worldwide | Not disclosed | 2026-09-17 |
+| [Senior Legal Counsel, Commercial Legal  (APAC)](https://lokerdollar.com/en/jobs/senior-legal-counsel-commercial-legal-apac-remote--job_greenhouse_remotecom_7997509003?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Remote | remote-region | USD 53,050–134,250/yearly | 2026-09-17 |
+| [Coordinator, Payroll Client Services](https://lokerdollar.com/en/jobs/coordinator-payroll-client-services-remote--job_greenhouse_remotecom_7998030003?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Remote | remote-region | USD 19,650–49,700/yearly | 2026-09-17 |
 | [FinOps Engineer](https://lokerdollar.com/en/jobs/finops-engineer-supabase--job_ashby_Supabase_fab1525f-3d89-4d1c-9094-84d21647415e?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Supabase | worldwide | Not disclosed | 2026-09-16 |
 | [Administrative Manager (Remote)](https://lokerdollar.com/en/jobs/administrative-manager-remote-quik-hire-staffing--job_jooble_-2019402718725009400?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Quik Hire Staffing | worldwide | Not disclosed | 2026-09-16 |
 | [Motion Graphics Designer (Remote)](https://lokerdollar.com/en/jobs/motion-graphics-designer-remote-quik-hire-staffing--job_jooble_7062822247614713000?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Quik Hire Staffing | worldwide | Not disclosed | 2026-09-16 |
@@ -69,13 +76,6 @@ or gets filled simply drops off the next run.
 | [AI Trainer (Remote)](https://lokerdollar.com/en/jobs/ai-trainer-remote-hire-feed--job_jooble_-3598940131467398700?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Hire Feed | worldwide | Not disclosed | 2026-09-13 |
 | [Research Analyst (Remote)](https://lokerdollar.com/en/jobs/research-analyst-remote-hire-feed--job_jooble_8228080789808668000?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Hire Feed | worldwide | Not disclosed | 2026-09-13 |
 | [Document Formatting Specialist (Remote)](https://lokerdollar.com/en/jobs/document-formatting-specialist-remote-hire-feed--job_jooble_7236489015788683000?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Hire Feed | worldwide | Not disclosed | 2026-09-13 |
-| [Strategic Project Manager (Remote)](https://lokerdollar.com/en/jobs/strategic-project-manager-remote-hire-feed--job_jooble_314413162953404300?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Hire Feed | worldwide | Not disclosed | 2026-09-13 |
-| [Logistics Specialist (Remote)](https://lokerdollar.com/en/jobs/logistics-specialist-remote-hired--job_jooble_4623729290991011000?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Hired | worldwide | Not disclosed | 2026-09-13 |
-| [Project Manager - Growth (Remote)](https://lokerdollar.com/en/jobs/project-manager-growth-remote-hire-feed--job_jooble_-1659048461496219600?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Hire Feed | worldwide | Not disclosed | 2026-09-13 |
-| [Design Engineer (Remote)](https://lokerdollar.com/en/jobs/design-engineer-remote-quik-hire-staffing--job_jooble_-221168352390221660?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Quik Hire Staffing | worldwide | Not disclosed | 2026-09-13 |
-| [Data Specialist (Remote)](https://lokerdollar.com/en/jobs/data-specialist-remote-quik-hire-staffing--job_jooble_-2078318565125339100?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Quik Hire Staffing | worldwide | Not disclosed | 2026-09-13 |
-| [HR Operations Generalist (Remote)](https://lokerdollar.com/en/jobs/hr-operations-generalist-remote-hired--job_jooble_-7872955903957650000?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Hired | worldwide | Not disclosed | 2026-09-13 |
-| [Data Scientist - Python (Remote)](https://lokerdollar.com/en/jobs/data-scientist-python-remote-hire-feed--job_jooble_6932731158884496000?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Hire Feed | worldwide | Not disclosed | 2026-09-13 |
 
 ## Submit a listing
 
