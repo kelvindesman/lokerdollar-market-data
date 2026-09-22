@@ -1,7 +1,7 @@
 # Verified Remote USD Jobs — Indonesia
 
 > Auto-generated daily from the [Loker Dollar](https://lokerdollar.com/en?utm_source=github&utm_medium=referral&utm_campaign=curated_list) job corpus.
-> **Last updated: 2026-09-21.** 50 verified listings posted in the last 7 days.
+> **Last updated: 2026-09-22.** 50 verified listings posted in the last 7 days.
 
 ## What "verified" means
 
@@ -26,6 +26,10 @@ or gets filled simply drops off the next run.
 
 | Job | Company | Remote | Pay | Posted |
 |---|---|---|---|---|
+| [Remote Manager in Training- CS/Sales](https://lokerdollar.com/en/jobs/remote-manager-in-training-cssales-global-elite--job_jobg8_us_3173501319?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Global Elite | regional | Not disclosed | 2026-09-22 |
+| [ENTRY SALES TO MANAGEMENT (REMOTE)](https://lokerdollar.com/en/jobs/entry-sales-to-management-remote-global-elite--job_jobg8_us_3173495410?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Global Elite | regional | Not disclosed | 2026-09-22 |
+| [Transaction Monitoring Analyst - (100% remote Worldwide - LATAM OR APAC timezone)](https://lokerdollar.com/en/jobs/transaction-monitoring-analyst-100-remote-worldwide-latam-or-apac-timezone-bitfinex--job_recruitee_bitfinex_2752739?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Bitfinex | worldwide | Not disclosed | 2026-09-21 |
+| [Staff Site Reliability Expert](https://lokerdollar.com/en/jobs/staff-site-reliability-expert-lightspeed-commerce--job_ashby_lightspeedhq_43100c60-69c9-423a-b366-50153d8c9561?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Lightspeed Commerce | remote-region | Not disclosed | 2026-09-21 |
 | [Assistant Manager, Accounting](https://lokerdollar.com/en/jobs/assistant-manager-accounting-marriott--job_jooble_6459558458648031000?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Marriott | worldwide | Not disclosed | 2026-09-20 |
 | [Global IT Support Specialist (Remote & Travel)](https://lokerdollar.com/en/jobs/global-it-support-specialist-remote-travel-flintex-consulting-pte-ltd--job_jooble_-549875736242555400?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Flintex Consulting Pte Ltd | worldwide | Not disclosed | 2026-09-20 |
 | [Manager, Payroll Operations - APAC](https://lokerdollar.com/en/jobs/manager-payroll-operations-apac-remote--job_jobicy_153766?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Remote | worldwide | Not disclosed | 2026-09-20 |
@@ -34,14 +38,18 @@ or gets filled simply drops off the next run.
 | [Freelance Software Tester With Apple Vision Pro (Remote Worldwide)](https://lokerdollar.com/en/jobs/freelance-software-tester-with-apple-vision-pro-remote-worldwide-testlio--job_jobicy_153663?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Testlio | worldwide | Not disclosed | 2026-09-19 |
 | [Sr. Full-Stack Software Engineer - Remote](https://lokerdollar.com/en/jobs/sr-full-stack-software-engineer-remote-yo-ai-labs--job_jooble_-8930315325816912000?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | YO AI Labs | worldwide | Not disclosed | 2026-09-19 |
 | [Business Development Manager](https://lokerdollar.com/en/jobs/business-development-manager-catalyst24--job_jooble_-3658395633815800000?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Catalyst24 | worldwide | Not disclosed | 2026-09-19 |
+| [Chinese-speaking R&D Formulator Manager](https://lokerdollar.com/en/jobs/chinese-speaking-rd-formulator-manager-matchatalent--job_careerjet_v2_QVlUaT-mAAE2GGqQt1zQEGW92nQXLQYcgf0pS2pFhsudAfUJ1YhGmcfxS7cMP?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | MatchaTalent | worldwide | Not disclosed | 2026-09-18 |
+| [Head of Sales, Indonesia](https://lokerdollar.com/en/jobs/head-of-sales-indonesia-taylor-and-francis--job_careerjet_v2_VBclLCiaV-kmFGUQB9pSC-Oe39cbnY0SJ4XoqJ1ttEN3AdWxmLDo-FFdUTzYb?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Taylor and Francis | worldwide | Not disclosed | 2026-09-18 |
 | [Cybersecurity Maturity Advisor - Global IT Security \| Remote](https://lokerdollar.com/en/jobs/cybersecurity-maturity-advisor-global-it-security-remote-palladium--job_jooble_2006261788499366700?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Palladium | worldwide | Not disclosed | 2026-09-18 |
 | [Associate Consultant - HR Technology - NUS](https://lokerdollar.com/en/jobs/associate-consultant-hr-technology-nus-rolling-arrays-consulting--job_adzuna_5889209249?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Rolling Arrays - Consulting | worldwide | Not disclosed | 2026-09-18 |
 | [TELESALES MANAGER](https://lokerdollar.com/en/jobs/telesales-manager-tri7-solutions-inc--job_jooble_-3631336963267479600?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | TRI7 Solutions Inc. | worldwide | Not disclosed | 2026-09-18 |
 | [Sales Manager](https://lokerdollar.com/en/jobs/sales-manager-glints--job_jooble_4486630100018097000?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Glints | worldwide | Not disclosed | 2026-09-18 |
 | [Talent Acquisition Associate](https://lokerdollar.com/en/jobs/talent-acquisition-associate-avomind--job_jooble_3596387785809132000?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Avomind | worldwide | Not disclosed | 2026-09-18 |
+| [Head of Sales, Indonesia](https://lokerdollar.com/en/jobs/head-of-sales-indonesia-informa--job_careerjet_v2_Gsp0p5ueJIIFNqdoCGhGw3pUhzSByHwi48z3OYXBZ2B3RiQqW8PfpV6DBBN1y?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Informa | worldwide | Not disclosed | 2026-09-18 |
 | [Customer Engineer, APAC](https://lokerdollar.com/en/jobs/customer-engineer-apac-cresta--job_jobicy_150935?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Cresta | worldwide | Not disclosed | 2026-09-18 |
 | [Head of Talent and People](https://lokerdollar.com/en/jobs/head-of-talent-and-people-sardine--job_ashby_Sardine_a3801830-a009-4115-899c-3af9729e6840?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Sardine | remote-region | USD 250,000–300,000/yearly | 2026-09-18 |
 | [Customer relations manager- Media and entertainment](https://lokerdollar.com/en/jobs/customer-relations-manager-media-and-entertainment-anuvu--job_adzuna_5888034298?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Anuvu | worldwide | Not disclosed | 2026-09-18 |
+| [Admin Spare Part](https://lokerdollar.com/en/jobs/admin-spare-part-pt-yanmar-diesel-indonesia--job_careerjet_v2_XgxXaNVTXCzRhZ9K9zg539u3FWl8QD6fBd__x15Rxca_a_yAlCnsSKT7uRX5c?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | PT Yanmar Diesel Indonesia | worldwide | Not disclosed | 2026-09-17 |
 | [Remote APAC BD Lead – AI Compute Solutions](https://lokerdollar.com/en/jobs/remote-apac-bd-lead-ai-compute-solutions-tenstorrent--job_adzuna_5887450027?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Tenstorrent | worldwide | Not disclosed | 2026-09-17 |
 | [Remote APAC Solutions Architect (Telecom/MVNO)](https://lokerdollar.com/en/jobs/remote-apac-solutions-architect-telecommvno-airalo--job_adzuna_5887447976?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Airalo | worldwide | Not disclosed | 2026-09-17 |
 | [Junior IT Engineer](https://lokerdollar.com/en/jobs/junior-it-engineer-funding-societies-modalku-group--job_adzuna_5887358556?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Funding Societies \| Modalku Group | worldwide | Not disclosed | 2026-09-17 |
@@ -68,14 +76,6 @@ or gets filled simply drops off the next run.
 | [Duty Manager](https://lokerdollar.com/en/jobs/duty-manager-swissotel--job_jooble_-7876480707575500000?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | SWISSOTEL | worldwide | Not disclosed | 2026-09-15 |
 | [Software Engineer](https://lokerdollar.com/en/jobs/software-engineer-tether--job_hn_49713455?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Tether | worldwide | Not disclosed | 2026-09-15 |
 | [Customer Support Representative](https://lokerdollar.com/en/jobs/customer-support-representative-swappedcom--job_cryptojobs_swapped-com-customer-support-rep?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Swapped.com | worldwide | Not disclosed | 2026-09-15 |
-| [Senior UX Researcher (100% Remote Worldwide)](https://lokerdollar.com/en/jobs/senior-ux-researcher-100-remote-worldwide-tether-operations-limited--job_arbeitnow_senior-ux-researcher-100-remote-?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Tether Operations Limited | worldwide | Not disclosed | 2026-09-15 |
-| [Freelance Scrum Master - APAC](https://lokerdollar.com/en/jobs/freelance-scrum-master-apac-human-made-makers-of-altis-dxp--job_adzuna_5883802405?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Human Made, makers of Altis DXP | worldwide | Not disclosed | 2026-09-15 |
-| [ENTRY SALES TO MANAGEMENT (REMOTE)](https://lokerdollar.com/en/jobs/entry-sales-to-management-remote-global-elite--job_jobg8_us_3173528317?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Global Elite | regional | Not disclosed | 2026-09-15 |
-| [Remote Manager in Training- CS/Sales](https://lokerdollar.com/en/jobs/remote-manager-in-training-cssales-global-elite--job_jobg8_us_3173523168?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Global Elite | regional | Not disclosed | 2026-09-15 |
-| [Inside Sales (100% Remote)](https://lokerdollar.com/en/jobs/inside-sales-100-remote-global-elite--job_jobg8_us_3173516692?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Global Elite | regional | Not disclosed | 2026-09-15 |
-| [Project Manager](https://lokerdollar.com/en/jobs/project-manager-teceze--job_jooble_1064963454913136500?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | TECEZE | worldwide | Not disclosed | 2026-09-15 |
-| [Animation Technical Artist - Rigging & Pipelines (Remote)](https://lokerdollar.com/en/jobs/animation-technical-artist-rigging-pipelines-remote-keywords-studios--job_jooble_-8747365693848765000?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Keywords Studios | worldwide | Not disclosed | 2026-09-14 |
-| [Remote Cybersecurity Consultant: Maturity & Risk](https://lokerdollar.com/en/jobs/remote-cybersecurity-consultant-maturity-risk-palladium--job_jooble_-197599434427383330?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Palladium | worldwide | Not disclosed | 2026-09-14 |
 
 ## Submit a listing
 
