@@ -1,7 +1,7 @@
 # Verified Remote USD Jobs — Indonesia
 
 > Auto-generated daily from the [Loker Dollar](https://lokerdollar.com/en?utm_source=github&utm_medium=referral&utm_campaign=curated_list) job corpus.
-> **Last updated: 2026-09-26.** 50 verified listings posted in the last 7 days.
+> **Last updated: 2026-09-27.** 50 verified listings posted in the last 7 days.
 
 ## What "verified" means
 
@@ -26,6 +26,8 @@ or gets filled simply drops off the next run.
 
 | Job | Company | Remote | Pay | Posted |
 |---|---|---|---|---|
+| [Remote Network Automation Lead - Indonesia (Secure Cloud)](https://lokerdollar.com/en/jobs/remote-network-automation-lead-indonesia-secure-cloud-amit-global-solutions-sdn-bhd--job_jooble_-913775025179231900?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | amIT Global Solutions Sdn Bhd | worldwide | Not disclosed | 2026-09-26 |
+| [Product Engineer](https://lokerdollar.com/en/jobs/product-engineer-the-flex--job_jooble_4830208451920856000?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | The Flex | worldwide | Not disclosed | 2026-09-26 |
 | [PA to SVP Asia Pacific & India Upstream](https://lokerdollar.com/en/jobs/pa-to-svp-asia-pacific-india-upstream-bp--job_jooble_-4026975403093415000?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | bp | worldwide | Not disclosed | 2026-09-25 |
 | [Account Executive (APAC)](https://lokerdollar.com/en/jobs/account-executive-apac-supabase--job_jobicy_154083?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Supabase | worldwide | Not disclosed | 2026-09-25 |
 | [Database Support Engineer (APAC)](https://lokerdollar.com/en/jobs/database-support-engineer-apac-supabase--job_jobicy_154081?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Supabase | worldwide | Not disclosed | 2026-09-25 |
@@ -42,6 +44,9 @@ or gets filled simply drops off the next run.
 | [Sales Lead – B2B Payments (SEA / APAC)](https://lokerdollar.com/en/jobs/sales-lead-b2b-payments-sea-apac-osl--job_adzuna_5897007592?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | OSL | worldwide | Not disclosed | 2026-09-24 |
 | [Legal Consultant - Debt Capital Markets](https://lokerdollar.com/en/jobs/legal-consultant-debt-capital-markets-lawyers-on-demand--job_adzuna_5897007524?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Lawyers On Demand | worldwide | Not disclosed | 2026-09-24 |
 | [GTM Intern](https://lokerdollar.com/en/jobs/gtm-intern-floccare--job_adzuna_5897007142?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | FlocCare | worldwide | Not disclosed | 2026-09-24 |
+| [Sales Counter (Sales Promotion ) Bogor](https://lokerdollar.com/en/jobs/sales-counter-sales-promotion-bogor-home-credit--job_careerjet_v2_Uhz6wDsx46xSPF4dCsYyaKUFmpYbW8LSxbJlSiX-FreQ7yvaSC6JcUwmkNpvW?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Home Credit | worldwide | Not disclosed | 2026-09-24 |
+| [Sales Associate Malang](https://lokerdollar.com/en/jobs/sales-associate-malang-home-credit--job_careerjet_v2_ZtsFNahn-cJNUmBCQf14bfTdWQBj9vHgarBGEiAEe7Y2albec5jzsoKoX-PH9?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Home Credit | worldwide | Not disclosed | 2026-09-24 |
+| [Sales Home Appliances](https://lokerdollar.com/en/jobs/sales-home-appliances-midea-electronics-indonesia--job_careerjet_v2_BWaGAiOc11sRFxZogYf534By23LLG7Q_2rqMgoOLLkum8T0G2fl5Qs-aSf9po?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Midea Electronics Indonesia | worldwide | Not disclosed | 2026-09-24 |
 | [Remote Global Corporate Secretarial Counsel](https://lokerdollar.com/en/jobs/remote-global-corporate-secretarial-counsel-amit-global-solutions-sdn-bhd--job_jooble_-9050636569815039000?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | amIT Global Solutions Sdn Bhd | worldwide | Not disclosed | 2026-09-24 |
 | [Customer Experience Specialist](https://lokerdollar.com/en/jobs/customer-experience-specialist-gotrade-yc-s19--job_jooble_-8447896069872947000?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Gotrade (YC S19) | worldwide | Not disclosed | 2026-09-24 |
 | [Junior Podcast Video Editor (Part-Time)](https://lokerdollar.com/en/jobs/junior-podcast-video-editor-part-time-brave-southeast-asia-tech-podcast--job_adzuna_5896221492?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | BRAVE Southeast Asia Tech Podcast | worldwide | Not disclosed | 2026-09-24 |
@@ -71,11 +76,6 @@ or gets filled simply drops off the next run.
 | [Technical Support](https://lokerdollar.com/en/jobs/technical-support-braiins--job_ashby_Braiins_70424962-79de-4f61-9e43-d71abfb66f00?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Braiins | remote-region | Not disclosed | 2026-09-21 |
 | [Transaction Monitoring Analyst - (100% remote Worldwide - LATAM OR APAC timezone)](https://lokerdollar.com/en/jobs/transaction-monitoring-analyst-100-remote-worldwide-latam-or-apac-timezone-bitfinex--job_recruitee_bitfinex_2752739?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Bitfinex | worldwide | Not disclosed | 2026-09-21 |
 | [Staff Site Reliability Expert](https://lokerdollar.com/en/jobs/staff-site-reliability-expert-lightspeed-commerce--job_ashby_lightspeedhq_43100c60-69c9-423a-b366-50153d8c9561?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Lightspeed Commerce | remote-region | Not disclosed | 2026-09-21 |
-| [Data Scientist - AI/ML (Remote)](https://lokerdollar.com/en/jobs/data-scientist-aiml-remote-quik-hire-staffing--job_jooble_164704244245620350?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Quik Hire Staffing | worldwide | Not disclosed | 2026-09-21 |
-| [Administrasi Support Wonogiri](https://lokerdollar.com/en/jobs/administrasi-support-wonogiri-tama-sentra-buana--job_careerjet_v2_6_PkNbliJM1cOeCmHq3SW8uLQvITmf2UL2InYSURKn4Iny11faJSsTvGpi7Sk?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Tama Sentra Buana | worldwide | Not disclosed | 2026-09-20 |
-| [Staff Administrasi Support Pati](https://lokerdollar.com/en/jobs/staff-administrasi-support-pati-eloka-buana-abadi--job_careerjet_v2_RjaJNJJxHZhsKQnKRXCUMdNrh9bnbOwVpMPb_D6bOTq9dHznk0ncpxrcnTCD7?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Eloka Buana Abadi | worldwide | Not disclosed | 2026-09-20 |
-| [Staff Administrasi Support Demak](https://lokerdollar.com/en/jobs/staff-administrasi-support-demak-eloka-buana-abadi--job_careerjet_v2__jvKh2Z818M_IJT7vVDg_bQWRY-6wiLad8RAbTugD5CsQ7uFqF_GdD473602G?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Eloka Buana Abadi | worldwide | Not disclosed | 2026-09-20 |
-| [Service Position (ERP Trainer)](https://lokerdollar.com/en/jobs/service-position-erp-trainer-pt-jst-software-indonesia--job_careerjet_v2_Sj_SZvyJJXRrY8ByVEvDmiapVLHExJY5jPs_o9oYginddNJscQaCFUeijSb_5?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | PT JST Software Indonesia | worldwide | Not disclosed | 2026-09-20 |
 
 ## Submit a listing
 
