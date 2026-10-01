@@ -1,7 +1,7 @@
 # Verified Remote USD Jobs — Indonesia
 
 > Auto-generated daily from the [Loker Dollar](https://lokerdollar.com/en?utm_source=github&utm_medium=referral&utm_campaign=curated_list) job corpus.
-> **Last updated: 2026-09-30.** 50 verified listings posted in the last 7 days.
+> **Last updated: 2026-10-01.** 50 verified listings posted in the last 7 days.
 
 ## What "verified" means
 
@@ -26,8 +26,11 @@ or gets filled simply drops off the next run.
 
 | Job | Company | Remote | Pay | Posted |
 |---|---|---|---|---|
-| [Technical Account Manager, API Partnerships](https://lokerdollar.com/en/jobs/technical-account-manager-api-partnerships-shout-about-us--job_wwr_shout-about-us-technical-account-manager-api-partnerships?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Shout About Us | worldwide | Not disclosed | 2026-09-29 |
+| [Online English Lesson Content Developer](https://lokerdollar.com/en/jobs/online-english-lesson-content-developer-novakid--job_recruitee_novakidschool_1564738?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Novakid | worldwide | Not disclosed | 2026-09-30 |
+| [Distinguished Engineer, Core DevOps](https://lokerdollar.com/en/jobs/distinguished-engineer-core-devops-gitlab--job_jooble_9012562545854917000?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | GitLab | worldwide | Not disclosed | 2026-09-30 |
+| [Technical Account Manager, API Partnerships](https://lokerdollar.com/en/jobs/technical-account-manager-api-partnerships-shout-about-us--job_wwr_shout-about-us-technical-account-manager-api-partnerships?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Shout About Us | worldwide | USD 60,000–80,000/yearly | 2026-09-29 |
 | [2D Artist Props and Customization](https://lokerdollar.com/en/jobs/2d-artist-props-and-customization-ilogos--job_wwr_ilogos-2d-artist-props-and-customization?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | iLogos | worldwide | Not disclosed | 2026-09-29 |
+| [Associate Product Manager, Salesforce (8-12 months Maternity Cover)](https://lokerdollar.com/en/jobs/associate-product-manager-salesforce-8-12-months-maternity-cover-lightspeed-commerce--job_ashby_lightspeedhq_67d44dd6-0d7e-4466-8998-65fac5a039ea?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Lightspeed Commerce | remote-region | Not disclosed | 2026-09-29 |
 | [Customer Value Partner, Strategic Accounts](https://lokerdollar.com/en/jobs/customer-value-partner-strategic-accounts-multiverse--job_ashby_Multiverse_51424d0a-3d73-4d5c-91c1-a92cf5e42d51?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Multiverse | remote-region | Not disclosed | 2026-09-29 |
 | [SMS Product Manager – MENA & APAC](https://lokerdollar.com/en/jobs/sms-product-manager-mena-apac-identidad--job_adzuna_5902067561?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Identidad | worldwide | Not disclosed | 2026-09-29 |
 | [Commercial Director - APAC](https://lokerdollar.com/en/jobs/commercial-director-apac-inmy-jet--job_adzuna_5902633364?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | inMy Jet | worldwide | Not disclosed | 2026-09-29 |
@@ -45,7 +48,6 @@ or gets filled simply drops off the next run.
 | [Sales Associate Cirebon](https://lokerdollar.com/en/jobs/sales-associate-cirebon-home-credit--job_careerjet_v2_vHpTW3fYiMusBPQUJIcIH67vmURdd0PSgrbGytQC-bYZm2UL37-ESRV1Choll?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Home Credit | worldwide | Not disclosed | 2026-09-27 |
 | [Sales Associate Surakarta](https://lokerdollar.com/en/jobs/sales-associate-surakarta-home-credit--job_careerjet_v2_YvPP7-TG0oU18OK3M_OOBD8XfArJKwrhqmhWAwpo2K805Go4_JKUNwK7HWOx3?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Home Credit | worldwide | Not disclosed | 2026-09-27 |
 | [Field Collection Team Leader Medan](https://lokerdollar.com/en/jobs/field-collection-team-leader-medan-home-credit--job_careerjet_v2_YavwD1lLVnrLW-CWg3DQY3P5nCLT10E_XvD6TEZ-SLHIlpy6wtfIG4ZbPHIrY?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Home Credit | worldwide | Not disclosed | 2026-09-27 |
-| [Tax Principal or Senior Manager (Remote)](https://lokerdollar.com/en/jobs/tax-principal-or-senior-manager-remote-jobot--job_jobg8_us_3184567969?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Jobot | regional | USD 150,000–225,000/yearly | 2026-09-27 |
 | [Remote Network Automation Lead - Indonesia (Secure Cloud)](https://lokerdollar.com/en/jobs/remote-network-automation-lead-indonesia-secure-cloud-amit-global-solutions-sdn-bhd--job_jooble_-913775025179231900?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | amIT Global Solutions Sdn Bhd | worldwide | Not disclosed | 2026-09-26 |
 | [Senior Full-Stack Product Engineer](https://lokerdollar.com/en/jobs/senior-full-stack-product-engineer-the-flex--job_jooble_-2266748145605390300?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | The Flex | worldwide | Not disclosed | 2026-09-26 |
 | [Senior Software Engineer](https://lokerdollar.com/en/jobs/senior-software-engineer-the-flex--job_jooble_-7250925194266104000?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | The Flex | worldwide | Not disclosed | 2026-09-26 |
@@ -74,8 +76,6 @@ or gets filled simply drops off the next run.
 | [STAFF ADMIN](https://lokerdollar.com/en/jobs/staff-admin-pt-yamaha-motor-electronics-indonesia--job_careerjet_v2_MlWVyH3L6Ud9Mg7lcaJ3TizKKxjUvAg_vvRhJXctLtDZiQwavGQQMP4Ux2d1M?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | PT Yamaha Motor Electronics Indonesia | worldwide | Not disclosed | 2026-09-24 |
 | [Customer Relationship Admin](https://lokerdollar.com/en/jobs/customer-relationship-admin-pt-owl-eyewear-indonesia--job_careerjet_v2_6NwVypb46_7lfgLBpAPGPfssagmJE22qson8kM-QrzTB0k1SWCC_NX6R_PH83?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | PT Owl Eyewear Indonesia | worldwide | Not disclosed | 2026-09-24 |
 | [Sales Counter (Sales Promotion ) Bogor](https://lokerdollar.com/en/jobs/sales-counter-sales-promotion-bogor-home-credit--job_careerjet_v2_Uhz6wDsx46xSPF4dCsYyaKUFmpYbW8LSxbJlSiX-FreQ7yvaSC6JcUwmkNpvW?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Home Credit | worldwide | Not disclosed | 2026-09-24 |
-| [Sales Associate Malang](https://lokerdollar.com/en/jobs/sales-associate-malang-home-credit--job_careerjet_v2_ZtsFNahn-cJNUmBCQf14bfTdWQBj9vHgarBGEiAEe7Y2albec5jzsoKoX-PH9?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Home Credit | worldwide | Not disclosed | 2026-09-24 |
-| [Sales Home Appliances](https://lokerdollar.com/en/jobs/sales-home-appliances-midea-electronics-indonesia--job_careerjet_v2_BWaGAiOc11sRFxZogYf534By23LLG7Q_2rqMgoOLLkum8T0G2fl5Qs-aSf9po?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Midea Electronics Indonesia | worldwide | Not disclosed | 2026-09-24 |
 
 ## Submit a listing
 
