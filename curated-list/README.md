@@ -1,7 +1,7 @@
 # Verified Remote USD Jobs — Indonesia
 
 > Auto-generated daily from the [Loker Dollar](https://lokerdollar.com/en?utm_source=github&utm_medium=referral&utm_campaign=curated_list) job corpus.
-> **Last updated: 2026-10-03.** 47 verified listings posted in the last 7 days.
+> **Last updated: 2026-10-04.** 50 verified listings posted in the last 7 days.
 
 ## What "verified" means
 
@@ -22,7 +22,7 @@ Only roles that pass **both** checks, posted in the last 7 days, appear
 in the table below. This file refreshes every day, so a role that goes stale
 or gets filled simply drops off the next run.
 
-## Verified listings (47)
+## Verified listings (50)
 
 | Job | Company | Remote | Pay | Posted |
 |---|---|---|---|---|
@@ -34,8 +34,16 @@ or gets filled simply drops off the next run.
 | [Senior Backend Engineer, InsurTech (Golang) Remote/Flexible](https://lokerdollar.com/en/jobs/senior-backend-engineer-insurtech-golang-remoteflexible-grab--job_jooble_7605944228350518000?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Grab | worldwide | Not disclosed | 2026-10-02 |
 | [Senior QA Engineer - Remote, Growth & Equity Options](https://lokerdollar.com/en/jobs/senior-qa-engineer-remote-growth-equity-options-amit-global-solutions-sdn-bhd--job_jooble_-2987401680860983000?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | amIT Global Solutions Sdn Bhd | worldwide | Not disclosed | 2026-10-02 |
 | [Senior Vendor Relationship Manager](https://lokerdollar.com/en/jobs/senior-vendor-relationship-manager-oyster--job_ashby_Oyster_67167d3a-c169-4a0c-b839-3ae99ae717a7?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Oyster | remote-region | RON 225,000–280,000/yearly | 2026-10-02 |
+| [Product Manager, Safety & Compliance](https://lokerdollar.com/en/jobs/product-manager-safety-compliance-creatoriq--job_ashby_creatoriq_117ed59b-74ca-4cde-b28c-c9db6c2310af?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | CreatorIQ | remote-region | GBP 70,000–91,000/yearly | 2026-10-02 |
 | [Senior International HRBP](https://lokerdollar.com/en/jobs/senior-international-hrbp-oyster--job_ashby_Oyster_08aefbcc-4a8a-42e8-a44e-1554fc9dcebb?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Oyster | remote-region | EUR 44,000–70,000/yearly | 2026-10-02 |
 | [Product Engineer (Product Manager role, not a Full-stack role)](https://lokerdollar.com/en/jobs/product-engineer-product-manager-role-not-a-full-stack-role-search-atlas--job_hn_49931746?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Search Atlas | worldwide | USD 3,680–5,440/monthly | 2026-10-02 |
+| [Client Success Representative (Remote within APAC region, Contract)](https://lokerdollar.com/en/jobs/client-success-representative-remote-within-apac-region-contract-infuse--job_jooble_-4310458051166254000?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Infuse | worldwide | Not disclosed | 2026-10-02 |
+| [Customer Value Partner, APAC](https://lokerdollar.com/en/jobs/customer-value-partner-apac-hawk--job_ashby_hawk_3f4d3432-80b3-40ec-bc5d-8944e52ecd85?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Hawk | remote-region | Not disclosed | 2026-10-01 |
+| [Sales Counter (Sales Promotion ) mall Kota Nganjuk](https://lokerdollar.com/en/jobs/sales-counter-sales-promotion-mall-kota-nganjuk-home-credit--job_careerjet_v2_aLRCJGeKMIsUNTHuzG5OHOkR9QYE-8mm0ckZMModMOHcivG5EPdGUgL-o0flT?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Home Credit | worldwide | Not disclosed | 2026-10-01 |
+| [IT affliate (sales freelancer)](https://lokerdollar.com/en/jobs/it-affliate-sales-freelancer-ref-group-indonesia--job_careerjet_v2_OD7vbremSB6pT6d4GezUaRQyhRZxhHCPnSMNRYo42q73LIZH0-DlOCqcZvOWf?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | REF GROUP INDONESIA | worldwide | Not disclosed | 2026-10-01 |
+| [Sales Trainer (Makassar)](https://lokerdollar.com/en/jobs/sales-trainer-makassar-home-credit--job_careerjet_v2_ntRum0vrDsr_-V_zdmpFhZqofRh1jkqJujzLWX5EeziCzhjCCOhNQQCEq5eZY?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Home Credit | worldwide | Not disclosed | 2026-10-01 |
+| [Field Collection Team Leader Palangkaraya](https://lokerdollar.com/en/jobs/field-collection-team-leader-palangkaraya-home-credit--job_careerjet_v2_O352fqwf2i-pTQPoRCG-h53y-VyzEIAPZsMvnQBHMzjplid5ZrqtE1dRBVNXd?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Home Credit | worldwide | Not disclosed | 2026-10-01 |
+| [IT Presentation Specialist](https://lokerdollar.com/en/jobs/it-presentation-specialist-codeid--job_careerjet_v2_izp75M0c4gwZS_ysTqZXkk-BIQKneVABCG4tP0wX9idYl1B99gBp5wZThTgRz?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Code.id | worldwide | Not disclosed | 2026-10-01 |
 | [Remote PhD Psychologist (Indonesian) for AI Training](https://lokerdollar.com/en/jobs/remote-phd-psychologist-indonesian-for-ai-training-remotejobsone--job_jooble_-3224760894710866000?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | RemoteJobsOne | worldwide | Not disclosed | 2026-10-01 |
 | [design, engineering, GTM, sales](https://lokerdollar.com/en/jobs/design-engineering-gtm-sales-rootly--job_hn_49926195?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Rootly | worldwide | Not disclosed | 2026-10-01 |
 | [Android Software Engineer](https://lokerdollar.com/en/jobs/android-software-engineer-flexibits--job_hn_49922803?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Flexibits | worldwide | Not disclosed | 2026-10-01 |
@@ -68,11 +76,6 @@ or gets filled simply drops off the next run.
 | [Sales Associate Purwokerto](https://lokerdollar.com/en/jobs/sales-associate-purwokerto-home-credit--job_careerjet_v2_0Nycvg0HgrtP9FcbnHZRZEA2DROKvSrMlWq1OyRrrKZNF4LxBGKEt5dVOteXS?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Home Credit | worldwide | Not disclosed | 2026-09-27 |
 | [Sales Associate Bandung](https://lokerdollar.com/en/jobs/sales-associate-bandung-home-credit--job_careerjet_v2_PDr2qemCa7amXGpFgnxqq1Jv-ahP5TOj-DIAQhSpE6JEc64XtzQxS1NK8EClm?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Home Credit | worldwide | Not disclosed | 2026-09-27 |
 | [Field Collection Team Leader Jambi](https://lokerdollar.com/en/jobs/field-collection-team-leader-jambi-home-credit--job_careerjet_v2_bH0DY7iG13BH8HXzVaKzJgGp9j4umJH0JARvUeivQtjEMuhZJSHMX5Xqu8rVf?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Home Credit | worldwide | IDR 5,000,000–10,000,000/monthly | 2026-09-27 |
-| [Sales Associate Cirebon](https://lokerdollar.com/en/jobs/sales-associate-cirebon-home-credit--job_careerjet_v2_vHpTW3fYiMusBPQUJIcIH67vmURdd0PSgrbGytQC-bYZm2UL37-ESRV1Choll?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Home Credit | worldwide | Not disclosed | 2026-09-27 |
-| [Sales Associate Surakarta](https://lokerdollar.com/en/jobs/sales-associate-surakarta-home-credit--job_careerjet_v2_YvPP7-TG0oU18OK3M_OOBD8XfArJKwrhqmhWAwpo2K805Go4_JKUNwK7HWOx3?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Home Credit | worldwide | Not disclosed | 2026-09-27 |
-| [Field Collection Team Leader Medan](https://lokerdollar.com/en/jobs/field-collection-team-leader-medan-home-credit--job_careerjet_v2_YavwD1lLVnrLW-CWg3DQY3P5nCLT10E_XvD6TEZ-SLHIlpy6wtfIG4ZbPHIrY?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Home Credit | worldwide | Not disclosed | 2026-09-27 |
-| [Remote Tech Support Engineer for Global SaaS (PST)](https://lokerdollar.com/en/jobs/remote-tech-support-engineer-for-global-saas-pst-ibmc--job_jooble_-6113209945886501000?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | IBMC | worldwide | Not disclosed | 2026-09-27 |
-| [Remote Network Automation Lead - Indonesia (Secure Cloud)](https://lokerdollar.com/en/jobs/remote-network-automation-lead-indonesia-secure-cloud-amit-global-solutions-sdn-bhd--job_jooble_-913775025179231900?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | amIT Global Solutions Sdn Bhd | worldwide | Not disclosed | 2026-09-26 |
 
 ## Submit a listing
 
