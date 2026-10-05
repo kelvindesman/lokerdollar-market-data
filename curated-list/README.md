@@ -1,7 +1,7 @@
 # Verified Remote USD Jobs — Indonesia
 
 > Auto-generated daily from the [Loker Dollar](https://lokerdollar.com/en?utm_source=github&utm_medium=referral&utm_campaign=curated_list) job corpus.
-> **Last updated: 2026-10-04.** 50 verified listings posted in the last 7 days.
+> **Last updated: 2026-10-05.** 45 verified listings posted in the last 7 days.
 
 ## What "verified" means
 
@@ -22,7 +22,7 @@ Only roles that pass **both** checks, posted in the last 7 days, appear
 in the table below. This file refreshes every day, so a role that goes stale
 or gets filled simply drops off the next run.
 
-## Verified listings (50)
+## Verified listings (45)
 
 | Job | Company | Remote | Pay | Posted |
 |---|---|---|---|---|
@@ -71,11 +71,6 @@ or gets filled simply drops off the next run.
 | [Medical Domain Expert (Physician)](https://lokerdollar.com/en/jobs/medical-domain-expert-physician-lemon-recruitment--job_jooble_8277563561560808000?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Lemon Recruitment | worldwide | Not disclosed | 2026-09-28 |
 | [Strategic Account Manager (12 month contract)](https://lokerdollar.com/en/jobs/strategic-account-manager-12-month-contract-lightspeed-commerce--job_ashby_lightspeedhq_02baeb98-fa77-4d28-b64e-8e76d2249661?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Lightspeed Commerce | remote-region | Not disclosed | 2026-09-28 |
 | [Software Engineer - A26367](https://lokerdollar.com/en/jobs/software-engineer-a26367-activate-interactive-pte-ltd--job_adzuna_5901268796?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Activate Interactive Pte Ltd | worldwide | Not disclosed | 2026-09-28 |
-| [Project Head](https://lokerdollar.com/en/jobs/project-head-rge--job_jooble_-4660121026180435000?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | RGE | worldwide | Not disclosed | 2026-09-28 |
-| [Admin Technical](https://lokerdollar.com/en/jobs/admin-technical-pt-indonesia-capital-nirwana--job_careerjet_v2_Bv7PlcLuT_qErYWDvKgaX5vWwiEoSkVIcdjfGQmoWbRYFaCEBWdLp2uGcPSEG?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | PT Indonesia Capital Nirwana | worldwide | Not disclosed | 2026-09-27 |
-| [Sales Associate Purwokerto](https://lokerdollar.com/en/jobs/sales-associate-purwokerto-home-credit--job_careerjet_v2_0Nycvg0HgrtP9FcbnHZRZEA2DROKvSrMlWq1OyRrrKZNF4LxBGKEt5dVOteXS?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Home Credit | worldwide | Not disclosed | 2026-09-27 |
-| [Sales Associate Bandung](https://lokerdollar.com/en/jobs/sales-associate-bandung-home-credit--job_careerjet_v2_PDr2qemCa7amXGpFgnxqq1Jv-ahP5TOj-DIAQhSpE6JEc64XtzQxS1NK8EClm?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Home Credit | worldwide | Not disclosed | 2026-09-27 |
-| [Field Collection Team Leader Jambi](https://lokerdollar.com/en/jobs/field-collection-team-leader-jambi-home-credit--job_careerjet_v2_bH0DY7iG13BH8HXzVaKzJgGp9j4umJH0JARvUeivQtjEMuhZJSHMX5Xqu8rVf?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Home Credit | worldwide | IDR 5,000,000–10,000,000/monthly | 2026-09-27 |
 
 ## Submit a listing
 
