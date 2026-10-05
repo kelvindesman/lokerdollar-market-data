@@ -33,5 +33,12 @@
     "with_salary": 918,
     "salary_pct": 18,
     "companies": 1371
+  },
+  {
+    "date": "2026-10-05",
+    "total": 5088,
+    "with_salary": 943,
+    "salary_pct": 18.5,
+    "companies": 1424
   }
 ]
