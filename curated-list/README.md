@@ -1,7 +1,7 @@
 # Verified Remote USD Jobs — Indonesia
 
 > Auto-generated daily from the [Loker Dollar](https://lokerdollar.com/en?utm_source=github&utm_medium=referral&utm_campaign=curated_list) job corpus.
-> **Last updated: 2026-10-05.** 45 verified listings posted in the last 7 days.
+> **Last updated: 2026-10-06.** 44 verified listings posted in the last 7 days.
 
 ## What "verified" means
 
@@ -22,10 +22,16 @@ Only roles that pass **both** checks, posted in the last 7 days, appear
 in the table below. This file refreshes every day, so a role that goes stale
 or gets filled simply drops off the next run.
 
-## Verified listings (45)
+## Verified listings (44)
 
 | Job | Company | Remote | Pay | Posted |
 |---|---|---|---|---|
+| [AI Engineer](https://lokerdollar.com/en/jobs/ai-engineer-pearster--job_teamtailor_pearster_1746721541_na_c7f19814_f6a7_4e9c_907f_e485495e9d80?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Pearster | remote-region | Not disclosed | 2026-10-05 |
+| [Sales Account Executive](https://lokerdollar.com/en/jobs/sales-account-executive-anywhereworks--job_recruitee_anywhereworks_2770968?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | AnywhereWorks | remote-region | Not disclosed | 2026-10-05 |
+| [Staff Software Engineer, Infrastructure](https://lokerdollar.com/en/jobs/staff-software-engineer-infrastructure-stream--job_ashby_Stream_b98ea21b-693c-4a70-9d25-081ed3de92d2?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Stream | remote-region | Not disclosed | 2026-10-05 |
+| [Crypto Fund Operations Manager](https://lokerdollar.com/en/jobs/crypto-fund-operations-manager-re7-capital--job_cryptojobs_re7-capital-crypto-fund-operatio?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Re7 Capital | worldwide | Not disclosed | 2026-10-05 |
+| [Web Research & Fact-Checking Specialist - AI Evaluation Project (Indonesia)](https://lokerdollar.com/en/jobs/web-research-fact-checking-specialist-ai-evaluation-project-indonesia-edatabae--job_jooble_1381399296762400800?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | eDataBae | worldwide | Not disclosed | 2026-10-05 |
+| [Senior Product Designer](https://lokerdollar.com/en/jobs/senior-product-designer-heymax--job_adzuna_5911273524?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Heymax | worldwide | Not disclosed | 2026-10-04 |
 | [Remote Occupational Therapist - Pediatric & Adult Telehealth](https://lokerdollar.com/en/jobs/remote-occupational-therapist-pediatric-adult-telehealth-physiomantra--job_jooble_5555280220282746000?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | PhysioMantra | worldwide | Not disclosed | 2026-10-02 |
 | [Remote Payroll Client Support Specialist](https://lokerdollar.com/en/jobs/remote-payroll-client-support-specialist-mosaec--job_jooble_8594136741197169000?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Mosaec | worldwide | Not disclosed | 2026-10-02 |
 | [Remote: Coordinator, Payroll Client Services](https://lokerdollar.com/en/jobs/remote-coordinator-payroll-client-services-mosaec--job_jooble_-5509997895227403000?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Mosaec | worldwide | Not disclosed | 2026-10-02 |
@@ -64,13 +70,6 @@ or gets filled simply drops off the next run.
 | [SMS Product Manager – MENA & APAC](https://lokerdollar.com/en/jobs/sms-product-manager-mena-apac-identidad--job_adzuna_5902067561?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Identidad | worldwide | Not disclosed | 2026-09-29 |
 | [Commercial Director - APAC](https://lokerdollar.com/en/jobs/commercial-director-apac-inmy-jet--job_adzuna_5902633364?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | inMy Jet | worldwide | Not disclosed | 2026-09-29 |
 | [Director Strategic Partnerships, APAC](https://lokerdollar.com/en/jobs/director-strategic-partnerships-apac-smartrecruiters-inc--job_adzuna_5902633711?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | SmartRecruiters, Inc. | worldwide | Not disclosed | 2026-09-29 |
-| [Enterprise Success Engineer - APAC](https://lokerdollar.com/en/jobs/enterprise-success-engineer-apac-laravel--job_adzuna_5901787879?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Laravel | worldwide | Not disclosed | 2026-09-29 |
-| [Bilingual Indonesian Psychologist (PhD) - Remote (Indonesia)](https://lokerdollar.com/en/jobs/bilingual-indonesian-psychologist-phd-remote-indonesia-remotejobsone--job_jooble_374888241412783300?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | RemoteJobsOne | worldwide | USD 1,600–3,200/monthly | 2026-09-29 |
-| [Bilingual Indonesian Psychiatrist - Remote (Indonesia)](https://lokerdollar.com/en/jobs/bilingual-indonesian-psychiatrist-remote-indonesia-remotejobsone--job_jooble_-6147305976090322000?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | RemoteJobsOne | worldwide | USD 1,600–3,200/monthly | 2026-09-29 |
-| [AI Research Engineer (Kernel & Inference Optimization) - 100% Remote Worldwide](https://lokerdollar.com/en/jobs/ai-research-engineer-kernel-inference-optimization-100-remote-worldwide-tether--job_recruitee_tether_2762204?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Tether | worldwide | Not disclosed | 2026-09-28 |
-| [Medical Domain Expert (Physician)](https://lokerdollar.com/en/jobs/medical-domain-expert-physician-lemon-recruitment--job_jooble_8277563561560808000?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Lemon Recruitment | worldwide | Not disclosed | 2026-09-28 |
-| [Strategic Account Manager (12 month contract)](https://lokerdollar.com/en/jobs/strategic-account-manager-12-month-contract-lightspeed-commerce--job_ashby_lightspeedhq_02baeb98-fa77-4d28-b64e-8e76d2249661?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Lightspeed Commerce | remote-region | Not disclosed | 2026-09-28 |
-| [Software Engineer - A26367](https://lokerdollar.com/en/jobs/software-engineer-a26367-activate-interactive-pte-ltd--job_adzuna_5901268796?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Activate Interactive Pte Ltd | worldwide | Not disclosed | 2026-09-28 |
 
 ## Submit a listing
 
