@@ -1,7 +1,7 @@
 # Verified Remote USD Jobs — Indonesia
 
 > Auto-generated daily from the [Loker Dollar](https://lokerdollar.com/en?utm_source=github&utm_medium=referral&utm_campaign=curated_list) job corpus.
-> **Last updated: 2026-10-11.** 50 verified listings posted in the last 7 days.
+> **Last updated: 2026-10-12.** 50 verified listings posted in the last 7 days.
 
 ## What "verified" means
 
@@ -26,6 +26,8 @@ or gets filled simply drops off the next run.
 
 | Job | Company | Remote | Pay | Posted |
 |---|---|---|---|---|
+| [Engineering Manager/Network Team Lead](https://lokerdollar.com/en/jobs/engineering-managernetwork-team-lead-nebius--job_jobicy_155029?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Nebius | worldwide | Not disclosed | 2026-10-11 |
+| [VP Sales - Southeast Asia Market Leader](https://lokerdollar.com/en/jobs/vp-sales-southeast-asia-market-leader-aveva--job_adzuna_5922442978?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | AVEVA | worldwide | Not disclosed | 2026-10-11 |
 | [Technical Customer Support](https://lokerdollar.com/en/jobs/technical-customer-support-quickmail--job_wwr_quickmail-technical-customer-support?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | QuickMail | worldwide | Not disclosed | 2026-10-10 |
 | [Medical Expert - AI Trainer](https://lokerdollar.com/en/jobs/medical-expert-ai-trainer-lemon-recruitment--job_jooble_2265769843403994400?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Lemon Recruitment | worldwide | Not disclosed | 2026-10-10 |
 | [International Audio/Video Remote German Interpreter](https://lokerdollar.com/en/jobs/international-audiovideo-remote-german-interpreter-language-services-associates--job_jobicy_154973?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Language Services Associates | worldwide | Not disclosed | 2026-10-10 |
@@ -74,8 +76,6 @@ or gets filled simply drops off the next run.
 | [Senior Gameplay Animator](https://lokerdollar.com/en/jobs/senior-gameplay-animator-wolcen-studio--job_himalayas_e6060efd56fcfeb3?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Wolcen Studio | worldwide | Not disclosed | 2026-10-09 |
 | [VP of Technical & Executive Talent](https://lokerdollar.com/en/jobs/vp-of-technical-executive-talent-ajaib--job_workable_73de8bcc2ab66490?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Ajaib | regional | Not disclosed | 2026-10-09 |
 | [Senior Graphic Designer (Freelance – Landing Pages & Web)](https://lokerdollar.com/en/jobs/senior-graphic-designer-freelance-landing-pages-web-ricaris--job_himalayas_3646d71f1c135dc5?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | Ricaris | worldwide | USD 20–25/hourly | 2026-10-09 |
-| [Manager, Purchasing and Design](https://lokerdollar.com/en/jobs/manager-purchasing-and-design-one10--job_himalayas_29b2dbbd78e9abf3?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | One10 | worldwide | USD 90,000/yearly | 2026-10-09 |
-| [Senior Global Content Manager (B2B)](https://lokerdollar.com/en/jobs/senior-global-content-manager-b2b-tripleten--job_himalayas_0d6308ec947d9462?utm_source=github&utm_medium=referral&utm_campaign=curated_list) | TripleTen | worldwide | USD 48,000–60,000/yearly | 2026-10-09 |
 
 ## Submit a listing
 
