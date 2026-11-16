@@ -2,14 +2,14 @@
 
 ![Loker Dollar — open remote job market data](assets/social-preview.png)
 
-![active roles](https://img.shields.io/badge/active_roles-15%2C048-1f6feb)
-![salary disclosure](https://img.shields.io/badge/disclose_salary-18.4%25-orange)
-![updated](https://img.shields.io/badge/updated-2026--11--09-2ea043)
+![active roles](https://img.shields.io/badge/active_roles-18%2C545-1f6feb)
+![salary disclosure](https://img.shields.io/badge/disclose_salary-19.2%25-orange)
+![updated](https://img.shields.io/badge/updated-2026--11--16-2ea043)
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22168464-1f6feb)](https://doi.org/10.5281/zenodo.22168464)
 ![license](https://img.shields.io/badge/license-CC--BY--4.0-blue)
 ![format](https://img.shields.io/badge/format-Frictionless_datapackage-8957e5)
 
-**15,048 active remote roles paying in USD, from 5,926 companies — and only 18.4% of them will tell you the salary.**
+**18,545 active remote roles paying in USD, from 7,296 companies — and only 19.2% of them will tell you the salary.**
 
 That number is the reason this repo exists. Job boards show you postings; almost
 none of them let you *measure* the market. This is the measurement layer: a
@@ -24,7 +24,7 @@ and says so.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kelvindesman/lokerdollar-market-data/blob/main/examples/quickstart.ipynb) — run the whole analysis in your browser, nothing to install.
 
-> **Last updated: 2026-11-09.** Regenerated weekly from the live [Loker Dollar](https://lokerdollar.com/en?utm_source=github_data_teaser&utm_medium=referral&utm_campaign=market_data_2026_11) corpus. Free sample here; the full enriched dataset is paid.
+> **Last updated: 2026-11-16.** Regenerated weekly from the live [Loker Dollar](https://lokerdollar.com/en?utm_source=github_data_teaser&utm_medium=referral&utm_campaign=market_data_2026_11) corpus. Free sample here; the full enriched dataset is paid.
 
 ---
 
@@ -59,11 +59,11 @@ Colab](https://colab.research.google.com/github/kelvindesman/lokerdollar-market-
 
 | title | company | remote_type | pay_min | pay_max | pay_currency | pay_period |
 | --- | --- | --- | --- | --- | --- | --- |
-| Pengetikan dan Perapian Dokumen | Freelancer.com | worldwide | 8 | 15 | USD | hourly |
-| Virtual Assistant for AI Training | Freelancer.com | worldwide | 15 | 25 | USD | hourly |
-| Accurate Form Data Entry | Freelancer.com | worldwide | 15 | 25 | USD | hourly |
-| Precise Product Data Entry | Freelancer.com | worldwide | 13 | 27 | USD | hourly |
-| Licensed Insurance Rep - $19/hr, 100% Rem… | Foundever | regional | 19 | 19 | USD | hourly |
+| Cerpen Remaja Kejujuran Tanggungjawab uba… | Freelancer.com | worldwide | 15 | 25 | USD | hourly |
+| Card Loan Officer | PT Bank Mega Tbk | onsite | 5000000 | 8000000 | IDR | monthly |
+| SEO Articles for Teen Patti Apps | Freelancer.com | worldwide | 8 | 13 | USD | hourly |
+| Business Development (IT Solutions) | Sasana Digital | onsite | 5000000 | 5500000 | IDR | monthly |
+| Human Resources Administrative Specialist | PT. Jaffarindo International Indonesia | onsite | 5000000 | 5700000 | IDR | monthly |
 
 _50 rows in the current sample — every one active and salary-disclosing._
 
@@ -85,10 +85,10 @@ you build on it, rather than finding out in your own notebook.
 | `pay_max` | integer | 100% | Upper bound of the stated range |
 | `pay_currency` | string | 100% | ISO 4217 currency code |
 | `pay_period` | string | 100% | yearly \| monthly \| hourly |
-| `skills_required` | string | 100% | JSON array — must-have skills, extracted from the posting |
+| `skills_required` | string | 16% | JSON array — must-have skills, extracted from the posting |
 | `skills_bonus` | string | 0% | JSON array — nice-to-have skills. Not yet populated; see the Filled column. |
 | `green_flags` | string | 0% | JSON array — positive signals (async, equity, visa support). Not yet populated; see the Filled column. |
-| `red_flags` | string | 2% | JSON array — caution signals (unpaid trial, vague scope). Sparse; see the Filled column. |
+| `red_flags` | string | 0% | JSON array — caution signals (unpaid trial, vague scope). Sparse; see the Filled column. |
 | `indonesian_context` | string | 100% | JSON — Indonesia-fit notes (timezone overlap, hiring posture) |
 | `posted_at` | string | 100% | ISO 8601 posting timestamp |
 
@@ -97,17 +97,16 @@ Machine-readable schema: [`datapackage.json`](datapackage.json) (Frictionless Da
 
 ## Headline numbers
 
-- **15,048** active remote USD roles tracked right now
-- **2,770** (18.4%) disclose a salary range
-- **5,926** distinct hiring companies
+- **18,545** active remote USD roles tracked right now
+- **3,559** (19.2%) disclose a salary range
+- **7,296** distinct hiring companies
 
 ## Weekly trend
 
-Week over week: **+3,396** active roles, salary disclosure **+0.5 pp**.
+Week over week: **+3,497** active roles, salary disclosure **+0.8 pp**.
 
 | Week of | Active roles | With salary | Disclosure rate | Companies |
 | --- | ---: | ---: | ---: | ---: |
-| 2026-09-21 | 5,252 | 941 | 17.9% | 1,395 |
 | 2026-09-28 | 5,107 | 918 | 18% | 1,371 |
 | 2026-10-05 | 5,088 | 943 | 18.5% | 1,424 |
 | 2026-10-12 | 3,846 | 423 | 11% | 1,404 |
@@ -115,6 +114,7 @@ Week over week: **+3,396** active roles, salary disclosure **+0.5 pp**.
 | 2026-10-26 | 8,795 | 1,444 | 16.4% | 3,413 |
 | 2026-11-02 | 11,652 | 2,090 | 17.9% | 4,493 |
 | 2026-11-09 | 15,048 | 2,770 | 18.4% | 5,926 |
+| 2026-11-16 | 18,545 | 3,559 | 19.2% | 7,296 |
 
 Full machine-readable history: [`data/stats-history.json`](data/stats-history.json).
 
@@ -133,7 +133,7 @@ Attribution is the licence condition — and the fastest way to help. Paste this
 wherever you publish a chart or a number from it:
 
 ```html
-Source: <a href="https://lokerdollar.com/en/data">Loker Dollar Remote Job Market Data</a> (CC BY 4.0), retrieved 2026-11-09.
+Source: <a href="https://lokerdollar.com/en/data">Loker Dollar Remote Job Market Data</a> (CC BY 4.0), retrieved 2026-11-16.
 ```
 
 ```bibtex
@@ -144,7 +144,7 @@ Source: <a href="https://lokerdollar.com/en/data">Loker Dollar Remote Job Market
   publisher = {Zenodo},
   doi       = {10.5281/zenodo.22168464},
   url       = {https://lokerdollar.com/en/data},
-  note      = {Version 2026-11-09. CC BY 4.0}
+  note      = {Version 2026-11-16. CC BY 4.0}
 }
 ```
 
